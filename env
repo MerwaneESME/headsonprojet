@@ -1,0 +1,7 @@
+FILE_PATH=data.json
+BUCKET_NAME=miniprojet-headson-bucket
+PROJECT_ID=miniprojet-headson
+LOCATION=europe-west4
+GOOGLE_APPLICATION_CREDENTIALS=./service-account.json
+print("LOCATION utilisée :", LOCATION)
+
