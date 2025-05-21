@@ -1,0 +1,20 @@
+# Environnement virtuel
+venv/
+env/
+.env
+
+# Fichiers Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Fichiers de credentials
+*.json
+!package.json
+
+# Fichiers de logs
+*.log
+
+# Fichiers système
+.DS_Store
+Thumbs.db 
